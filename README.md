@@ -1,10 +1,10 @@
-# Climate Trend Analysis with ERA5 and ECCC historical data
+# Climate Trend Analysis with ERA5, ECCC and ACIS historical data
 
 This repository contains climate trend analysis scripts produced for the Capstone project of GEOG683, MGIS course, Fall 2024 session, University of Calgary. The goal of this project is to provide a centralized location for all the analysis-ready Python scripts, to maximize their shareability.
 
 ## Introduction
 
-Climate trend analysis is a crucial aspect of understanding the long-term changes in weather patterns and their potential impacts on the environment. This project aims to explore various climate trends using ERA5 reanalysis dataset and Environment and Climate Change Canada (ECCC) historical data.
+Climate trend analysis is a crucial aspect of understanding the long-term changes in weather patterns and their potential impacts on the environment. This project aims to explore various climate trends using ERA5 reanalysis dataset and Environment and Climate Change Canada (ECCC) and Alberta Climate Information Service (ACIS) historical data.
 
 These scripts produce detailed trend maps of temperature changes in North America, aiming to present the potential influence of Arctic Amplification on the mid-latitude jet stream, which may be affecting the winter-time warmth of Chinook winds in southeastern Alberta, as originally envisioned by Brian Brettschneider, University of Alaska Fairbanks, and Dr. John Yackel, University of Calgary.
 
